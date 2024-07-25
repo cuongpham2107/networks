@@ -1,5 +1,4 @@
-{
-  "networks": [
+[
     {
       "name": "BNB Smart Chain Testnet",
       "url_rpc": "https://bsc-testnet.blockpi.network/v1/rpc/public",
@@ -2432,4 +2431,4 @@
       ]
     }
   ]
-}
+
