@@ -1,6 +1,4 @@
-
-
-  "networks": [
+[
     {
       "name": "BNB Smart Chain Mainnet",
       "url_rpc": "https://binance.llamarpc.com",
