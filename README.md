@@ -1,7 +1,7 @@
 [
   {
     "name": "BNB Smart Chain Mainnet",
-    "url_rpc": "https://binance.llamarpc.com",
+    "rpc": "https://binance.llamarpc.com",
     "tokens": [
       {
         "name": "ETH",
@@ -52,7 +52,7 @@
   },
   {
     "name": "Ethereum Mainnet",
-    "url_rpc": "https://eth.llamarpc.com",
+    "rpc": "https://eth.llamarpc.com",
     "tokens": [
       {
         "name": "WETH",
@@ -103,7 +103,7 @@
   },
   {
     "name": "Polygon (Matic) Mainnet",
-    "url_rpc": "https://polygon.llamarpc.com",
+    "rpc": "https://polygon.llamarpc.com",
     "tokens": [
       {
         "name": "WETH",
@@ -144,7 +144,7 @@
   },
   {
     "name": "Base Mainnet",
-    "url_rpc": "https://base.llamarpc.com",
+    "rpc": "https://base.llamarpc.com",
     "tokens": [
       {
         "name": "tBTC",
@@ -170,7 +170,7 @@
   },
   {
     "name": "Blast Mainnet",
-    "url_rpc": "https://rpc.envelop.is/blast",
+    "rpc": "https://rpc.envelop.is/blast",
     "tokens": [
       {
         "name": "USDB",
@@ -186,7 +186,7 @@
   },
   {
     "name": "Linea Mainnet",
-    "url_rpc": "https://linea.blockpi.network/v1/rpc/public",
+    "rpc": "https://linea.blockpi.network/v1/rpc/public",
     "tokens": [
       {
         "name": "USDT",
@@ -227,7 +227,7 @@
   },
   {
     "name": "Avalanche Mainnet",
-    "url_rpc": "https://api.avax.network/ext/bc/C/rpc",
+    "rpc": "https://api.avax.network/ext/bc/C/rpc",
     "tokens": [
       {
         "name": "USDT",
@@ -258,7 +258,7 @@
   },
   {
     "name": "Fantom Mainnet",
-    "url_rpc": "https://rpc.ftm.tools/",
+    "rpc": "https://rpc.ftm.tools/",
     "tokens": [
       {
         "name": "BTC",
@@ -279,7 +279,7 @@
   },
   {
     "name": "Optimism Mainnet",
-    "url_rpc": "https://mainnet.optimism.io",
+    "rpc": "https://mainnet.optimism.io",
     "tokens": [
       {
         "name": "USDC",
